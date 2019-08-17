@@ -2,7 +2,7 @@
   "name": "hades.digital",
   "version": "1.0.0",
   "description": "",
-  "main": "index_12.html",
+  "main": "index.html",
   "dependencies": {
     "express": "^4.17.1"
   },
